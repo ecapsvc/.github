@@ -1,20 +1,6 @@
 # .github
 
 
-下载：
-wget https://nodejs.org/dist/v14.15.4/node-v14.15.4-linux-x64.tar.xz
-解压：tar -xvf node-v14.15.4-linux-x64.tar.xz
-mkdir -p /usr/local/nodejs
-mv node-v14.15.4-linux-x64/* /usr/local/nodejs/
-软链接：ln -s /usr/local/nodejs/bin/node /usr/local/bin
-ln -s /usr/local/nodejs/bin/npm /usr/local/bin
-淘宝镜像：npm config set registry https://registry.npm.taobao.org
-npm config list
-
-作者：勤的空间
-链接：https://www.jianshu.com/p/1a4ed3bc6c9d
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 
