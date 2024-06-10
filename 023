@@ -1,0 +1,8 @@
+ 
+而 Docker Compose 本身的命令可能需要 sudo 来获得 Docker 守护进程的访问权限，具体取决于您的 Docker 配置。
+
+确保您的 Docker 和 Docker Compose 配置允许非 root 用户运行 Docker 命令，这通常涉及将您的用户添加到 docker 组中。您可以使用以下命令将您的用户添加到 docker 组：
+
+sudo usermod -aG docker $USER  
+ 
+添加后，您需要注销并重新登录，或者重新启动系统以使组更改生效。
