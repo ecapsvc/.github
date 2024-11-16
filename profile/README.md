@@ -10,6 +10,17 @@ http://123.151.211.135:8501/
 http://143.64.120.39:8501/
 
 
+#### 文档链接
+1.X
+https://legacy-docs-v1.rasa.com/
+2.X
+https://rasa.com/docs/rasa/2.x/
+##### 3.X
+https://rasa.com/docs/rasa/
+
+
+
+
 
 
 
